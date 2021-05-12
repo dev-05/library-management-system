@@ -28,3 +28,9 @@ The book_info data base contains following attributes
 3.	author= varchar(100)
 4.	edition= varchar(30)
 5.	publication= varchar(30)
+
+
+## sample screenshots
+![](readme_images/img2.png)
+![](readme_images/img4.png)
+![](readme_images/img5.png)
